@@ -1,0 +1,2 @@
+class AirBnbReview < ApplicationRecord
+end

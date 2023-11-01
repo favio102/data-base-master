@@ -1,0 +1,2 @@
+class AirBnbReservation < ApplicationRecord
+end

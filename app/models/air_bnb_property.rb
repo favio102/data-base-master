@@ -1,0 +1,2 @@
+class AirBnbProperty < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class AirBnbPayment < ApplicationRecord
+end

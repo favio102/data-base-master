@@ -1,0 +1,2 @@
+class AirBnbProfile < ApplicationRecord
+end

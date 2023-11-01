@@ -1,0 +1,2 @@
+class AirBnbFavorite < ApplicationRecord
+end
